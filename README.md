@@ -4,6 +4,12 @@ The **Vestas vs. Oil Econometrics Project** is an empirical quantitative study d
 
 Quantitative Asset Pricing & Econometric Modeling — Vestas Wind Systems vs. Brent Crude
 
+### PDF PROJECT : 
+
+
+
+![Project ](docs/Report_Project_GHALI_Thalia.pdf)
+
 ### Key Features
 
 * **Automated Financial Pipeline:** Fully automated data extraction via R (`quantmod`) querying adjusted prices, utilizing monthly log-returns to eliminate time-zone mismatch and trading calendar discrepancies across CET and USD markets[cite: 3].
