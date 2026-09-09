@@ -8,7 +8,7 @@ Quantitative Asset Pricing & Econometric Modeling — Vestas Wind Systems vs. Br
 
 
 
-![Project ](docs/project.pdf)
+![Project ](docs/project_econometrics.pdf)
 
 ### Key Features
 
