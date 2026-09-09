@@ -8,7 +8,7 @@ Quantitative Asset Pricing & Econometric Modeling — Vestas Wind Systems vs. Br
 
 
 
-![Project ](docs/Report_Project_GHALI_Thalia.pdf)
+![Project ](docs/project.pdf)
 
 ### Key Features
 
